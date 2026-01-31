@@ -1,5 +1,6 @@
 # SEB – Modified Build
-README Created by ChatGPT
+README Created by ChatGPT.
+
 This is a modified Windows build of Safe Exam Browser (SEB).
 
 ## What’s changed
